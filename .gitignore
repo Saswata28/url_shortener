@@ -1,0 +1,10 @@
+*.env
+api/go.sum
+bin/
+build/
+*.exe
+*.out
+*.log
+*.test
+.data/
+.vscode/
