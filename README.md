@@ -1,5 +1,5 @@
 ## Description
-A Simple URL Shortener using Golang
+A Simple URL Shortener using Golang with Redis
 
 
 ## Set up
